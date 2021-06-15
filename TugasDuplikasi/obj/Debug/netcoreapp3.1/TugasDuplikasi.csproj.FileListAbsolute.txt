@@ -1,0 +1,13 @@
+D:\Document\METRODATA\Tugas Bootcamp\TugasDuplikasi\TugasDuplikasi\obj\Debug\netcoreapp3.1\TugasDuplikasi.csproj.AssemblyReference.cache
+D:\Document\METRODATA\Tugas Bootcamp\TugasDuplikasi\TugasDuplikasi\obj\Debug\netcoreapp3.1\TugasDuplikasi.AssemblyInfoInputs.cache
+D:\Document\METRODATA\Tugas Bootcamp\TugasDuplikasi\TugasDuplikasi\obj\Debug\netcoreapp3.1\TugasDuplikasi.AssemblyInfo.cs
+D:\Document\METRODATA\Tugas Bootcamp\TugasDuplikasi\TugasDuplikasi\obj\Debug\netcoreapp3.1\TugasDuplikasi.csproj.CoreCompileInputs.cache
+D:\Document\METRODATA\Tugas Bootcamp\TugasDuplikasi\TugasDuplikasi\bin\Debug\netcoreapp3.1\TugasDuplikasi.exe
+D:\Document\METRODATA\Tugas Bootcamp\TugasDuplikasi\TugasDuplikasi\bin\Debug\netcoreapp3.1\TugasDuplikasi.deps.json
+D:\Document\METRODATA\Tugas Bootcamp\TugasDuplikasi\TugasDuplikasi\bin\Debug\netcoreapp3.1\TugasDuplikasi.runtimeconfig.json
+D:\Document\METRODATA\Tugas Bootcamp\TugasDuplikasi\TugasDuplikasi\bin\Debug\netcoreapp3.1\TugasDuplikasi.runtimeconfig.dev.json
+D:\Document\METRODATA\Tugas Bootcamp\TugasDuplikasi\TugasDuplikasi\bin\Debug\netcoreapp3.1\TugasDuplikasi.dll
+D:\Document\METRODATA\Tugas Bootcamp\TugasDuplikasi\TugasDuplikasi\bin\Debug\netcoreapp3.1\TugasDuplikasi.pdb
+D:\Document\METRODATA\Tugas Bootcamp\TugasDuplikasi\TugasDuplikasi\obj\Debug\netcoreapp3.1\TugasDuplikasi.dll
+D:\Document\METRODATA\Tugas Bootcamp\TugasDuplikasi\TugasDuplikasi\obj\Debug\netcoreapp3.1\TugasDuplikasi.pdb
+D:\Document\METRODATA\Tugas Bootcamp\TugasDuplikasi\TugasDuplikasi\obj\Debug\netcoreapp3.1\TugasDuplikasi.genruntimeconfig.cache
